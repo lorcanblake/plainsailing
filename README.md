@@ -1,2 +1,2 @@
-# plainsailing
-An Tumblr theme comparable to a breeze.
+# Plain Sailing
+[Full description soon]
