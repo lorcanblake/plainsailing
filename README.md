@@ -1,2 +1,2 @@
 # Plain Sailing
-[Full description soon]
+[Preview this theme](http://lorcanblake.tumblr.com)
